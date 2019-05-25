@@ -1,0 +1,15 @@
+h1{
+  text-decoration: none !important;
+  font-family: Arial, Helvetica, sans-serif; 
+}
+a:link, a:visited {
+  color: #444;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+hr {
+  border: 1px solid #00ce86;
+  border-radius: 5px;
+  }
